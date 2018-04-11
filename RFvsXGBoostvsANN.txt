@@ -1,0 +1,7 @@
+Tuned XGBoost Gives accuracy of 0.7641 on kaggle compared to 0.7558 of Tuned Random forests. Tuned ANN(2 hidden layers, 600 neurons, 600 epochs,Adam optimizer) using Keras gives accuracy of 0.77. Random Forest easiest and fastest to build and tune.
+
+ANN using Keras - 0.77
+XGBoost - 0.7641
+RF - 0.7558
+
+
